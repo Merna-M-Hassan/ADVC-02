@@ -92,6 +92,7 @@
                 Console.WriteLine($"[LOW STOCK] {product.Name}: only {product.Stock} left!");
             }
 
+
         }
     }
 }
